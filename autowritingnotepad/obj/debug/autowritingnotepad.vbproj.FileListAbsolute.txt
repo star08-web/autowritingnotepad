@@ -1,0 +1,25 @@
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\bin\Debug\autowritingnotepad.exe.config
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\bin\Debug\autowritingnotepad.exe
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\bin\Debug\autowritingnotepad.pdb
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\bin\Debug\autowritingnotepad.xml
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.vbprojAssemblyReference.cache
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.Form1.resources
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.Resources.resources
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.vbproj.GenerateResource.cache
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.vbproj.CoreCompileInputs.cache
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.exe
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.xml
+C:\Users\feder\AppData\Local\Temporary Projects\autowritingnotepad\obj\Debug\autowritingnotepad.pdb
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.vbprojAssemblyReference.cache
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.Form1.resources
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.Resources.resources
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.vbproj.GenerateResource.cache
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.vbproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.exe
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.xml
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.pdb
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\bin\Debug\autowritingnotepad.exe.config
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\bin\Debug\autowritingnotepad.exe
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\bin\Debug\autowritingnotepad.pdb
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\bin\Debug\autowritingnotepad.xml
+C:\Users\feder\source\repos\autowritingnotepad\autowritingnotepad\obj\Debug\autowritingnotepad.RSODvb.resources
